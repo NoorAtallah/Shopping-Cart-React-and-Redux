@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Cesar Gourmet Wet Dog Food",
+      "price": 100,
+      "image": "https://images-cdn.ubuy.co.in/63790281c0174d568d0ea543-cesar-gourmet-wet-dog-food-variety-packs.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Turkey Tendon and Chicken Dog Treats",
+      "price": 200,
+      "image": "https://m.media-amazon.com/images/I/91o42CLaRCL.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Retractable Dog Leash",
+      "price": 300,
+      "image": "https://m.media-amazon.com/images/I/61w8acczwAL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Portable Dog Water Bottle with Food",
+        "price": 300,
+        "image": "https://m.media-amazon.com/images/I/812LqznWdnL._AC_UF1000,1000_QL80_.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Absorbent Hooded Dog Bathrobe Towel",
+        "price": 300,
+        "image": "https://m.media-amazon.com/images/I/81J1x2rsJpL.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Milk-Bone Soft & Chewy Dog Treats",
+        "price": 300,
+        "image": "https://m.media-amazon.com/images/I/81fT9sffa4L.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Blue Buffalo Training Treats",
+        "price": 300,
+        "image": "https://i5.walmartimages.com/seo/Blue-Buffalo-BLUE-Bits-Training-Treats-Beef-Flavor-Soft-Treats-for-Dogs-Whole-Grain-4-oz-Bag_25340096-cc07-47f4-b253-21cd34b02262.f064a15d3d996bdc470413eb168994b6.jpeg"
+      },
+      {
+        "id": 8,
+        "name": "Dog Skin Soother Moisturizing Stick",
+        "price": 300,
+        "image": "https://assets.petco.com/petco/image/upload/c_pad,dpr_1.0,f_auto,q_auto,h_636,w_636/c_pad,h_636,w_636/3673331-Center-1"
+      }
+  ]
+  
